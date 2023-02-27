@@ -5,7 +5,7 @@
 
 
 import os
-os.chdir("D:/2021년 2학기/기계이해/simple-vqa-pylib-master/use_keras")
+os.chdir("D:/simple-vqa-pylib-master/use_keras")
 
 
 # In[2]:
